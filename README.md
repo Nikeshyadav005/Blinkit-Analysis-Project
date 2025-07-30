@@ -1,5 +1,5 @@
 # Blinkit-Analysis-Project
-My New Project: Birkit Sales & Outlet Performance Dashboard
+My New Project: Blikit Sales & Outlet Performance Dashboard
 I'm excited to share my latest data analytics project where designed an interactive dashboard for Blinkit-India's Last Minute App using SQL, Python, and Power BE
 
 Project Highlights:
